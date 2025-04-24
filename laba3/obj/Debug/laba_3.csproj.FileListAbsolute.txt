@@ -1,0 +1,11 @@
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\bin\Debug\laba_3.exe.config
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\bin\Debug\laba_3.exe
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\bin\Debug\laba_3.pdb
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\obj\Debug\laba_3.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\obj\Debug\laba_3.fMain.resources
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\obj\Debug\laba_3.fPhone.resources
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\obj\Debug\laba_3.Properties.Resources.resources
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\obj\Debug\laba_3.csproj.GenerateResource.cache
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\obj\Debug\laba_3.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\obj\Debug\laba_3.exe
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_3\obj\Debug\laba_3.pdb
